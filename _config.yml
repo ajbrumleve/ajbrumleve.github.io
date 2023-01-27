@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Brumleve"
 title_separator          : "-"
 name                     : &name "Andrew Brumleve"
-description              : &description "A site to host what I've been working on"
+description              : &description "A site to host some of the projects I have been having fun developing recently"
 url                      : https://ajbrumleve.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ajbrumleve/ajbrumleve.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Andrew Brumleve"
   avatar           : "profile.png"
-  bio              : "I am a former mechanical engineer, current nlp practicioner"
+  bio              : "I am a former mechanical engineer, linguist, business founder, nlp practitioner, and general lover of data."
   location         : "Sumatra, Indonesia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ajbrumleve@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "andrew-brumleve-574239227"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AndrewBrumleve"
   vine             :
   weibo            :
   xing             :
