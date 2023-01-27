@@ -11,22 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Missouri University of Science & Technology, 2011
+* M.A. in Applied Linguistics, Dallas International University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2012 - May 2014: Mechanical Engineer
+  * Roeslein and Associates
+  * Duties included: Autocad, Support equipment sizing and acquisiton, Quality cntrol, Onsite direction
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2014-2018: Translation Specialist
+  * DLPI
+  * Duties included: Language and culture learning
+
+
+* 2019-Present: Language Development Specialist
+  * International Literacy and Development
+  * Duties included: Developing Human LAnguage Technology Competency
   
+ 
+* 2021-Present: Founder and Executive Director
+  * Intek Solutions
+  * Duties included: Management, Administration, Android Development, Natural Language Processing, 
+
+
 Skills
 ======
 * Skill 1
@@ -42,18 +51,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Projects
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* ikata
+  * Android based tool to crowdsource creation of language datasets for NLP in low resource languages
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Eagle scout
+* Executive director of Intek Solutions
