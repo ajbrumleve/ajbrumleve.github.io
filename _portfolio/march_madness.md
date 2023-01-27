@@ -1,6 +1,6 @@
 ---
 title: "Indonesian Language Identification"
-excerpt: "A first order markov model to identify the language of a given sentence. <br/><img src='/images/500x300.png'>"
+excerpt: "Build a model and make predictions for the NCAA Men's Basketball Tournament. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
