@@ -1,5 +1,5 @@
 ---
-title: "Indonesian Language Identification"
+title: "March Madness Bracket Predictor"
 excerpt: "Build a model and make predictions for the NCAA Men's Basketball Tournament. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
