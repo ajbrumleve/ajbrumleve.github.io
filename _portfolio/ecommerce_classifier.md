@@ -4,7 +4,6 @@ excerpt: "Classify customers into an unspecified number of groups based on their
 collection: portfolio
 ---
 
-# ecommerce_unsupervised_classifier
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -38,7 +37,7 @@ collection: portfolio
 <br />
 <div align="center">
 
-  <h3 align="center">Unsupervised Ecommerce Customer Categorization</h3>
+  <h3 align="center"><a href="https://github.com/ajbrumleve/ecommerce_unsupervised_classifier">Unsupervised Ecommerce Customer Categorization</a></h3>
 
   <p align="center">
     Python implementation to try to group similar customers of an ecommerce website
