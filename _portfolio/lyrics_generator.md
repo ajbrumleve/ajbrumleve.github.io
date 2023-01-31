@@ -37,7 +37,7 @@ collection: portfolio
 <br />
 <div align="center">
 
-  <h3 align="center">Lyrics Generator</h3>
+  <h3 align="center"><a href="https://github.com/ajbrumleve/lyrics_generator">Lyrics Generator</a></h3>
 
   <p align="center">
     Generate lyrics in the style of your favorite artists
