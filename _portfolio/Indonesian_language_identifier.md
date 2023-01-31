@@ -4,7 +4,7 @@ excerpt: "Naive Bayes and third order markov model to identify the language of a
 collection: portfolio
 ---
 
-# Indonesian Language Identifier
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -38,7 +38,7 @@ collection: portfolio
 <br />
 <div align="center">
 
-  <h3 align="center">Indonesian Language Identifier</h3>
+  <h3 align="center"> <a href="https://github.com/ajbrumleve/ind_language_identifier">Indonesian Language Identifier</a></h3>
 
   <p align="center">
     Identify the Indonesian language being used
