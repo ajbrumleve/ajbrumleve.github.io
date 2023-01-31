@@ -3,7 +3,7 @@ title: "House Price Predictor"
 excerpt: "Scrape the internet for house price data and build a model to predict house prices in a given state.  <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-# house_price_prediction
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -38,7 +38,7 @@ collection: portfolio
 <br />
 <div align="center">
 
-  <h3 align="center">House Price Prediction</h3>
+  <h3 align="center"><a href="https://github.com/ajbrumleve/house_price_prediction">House Price Prediction</a></h3>
 
   <p align="center">
     Python implementation scrape web for house price data, build a model, and predict housing prices.
