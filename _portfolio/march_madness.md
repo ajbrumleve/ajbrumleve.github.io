@@ -36,7 +36,7 @@ collection: portfolio
 <br />
 <div align="center">
 
-  <h3 align="center">March Madness Predictor</h3>
+  <h3 align="center"><a href="https://github.com/ajbrumleve/march_madness">March Madness Predictor</a></h3>
 
   <p align="center">
     Use machine learning to fill out your bracket
