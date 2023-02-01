@@ -1,6 +1,6 @@
 ---
 title: "March Madness Bracket Predictor"
-excerpt: "Build a model and make predictions for the NCAA Men's Basketball Tournament. <br/><img src='/images/march-madness.jpg'>"
+excerpt: "Build a model and make predictions for the NCAA Men's Basketball Tournament. <br/><img src='/images/march_madness.jpg'>"
 collection: portfolio
 ---
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
