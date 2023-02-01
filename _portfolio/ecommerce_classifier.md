@@ -1,6 +1,6 @@
 ---
 title: "Ecommerce Customer Unsupervised Classification"
-excerpt: "Classify customers into an unspecified number of groups based on their behavior on an ecommerce website. <br/><img src='/images/500x300.png'>"
+excerpt: "Classify customers into an unspecified number of groups based on their behavior on an ecommerce website. <br/><img src='/images/ecommerce.jpg'>"
 collection: portfolio
 ---
 
