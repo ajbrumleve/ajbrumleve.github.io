@@ -1,6 +1,6 @@
 ---
 title: "Lyrics Generator"
-excerpt: "Generate lyrics in the style of your favorite artists  <br/><img src='/images/500x300.png'>"
+excerpt: "Generate lyrics in the style of your favorite artists  <br/><img src='/images/song_lyrics.jpg'>"
 collection: portfolio
 ---
 
