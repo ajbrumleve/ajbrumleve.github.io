@@ -1,6 +1,6 @@
 ---
 title: "Indonesian Language Identification"
-excerpt: "Naive Bayes and third order markov model to identify the language of a given sentence. <br/><img src='/images/500x300.png'>"
+excerpt: "Naive Bayes and third order markov model to identify the language of a given sentence. <br/><img src='/images/language_identifier.png'>"
 collection: portfolio
 ---
 
