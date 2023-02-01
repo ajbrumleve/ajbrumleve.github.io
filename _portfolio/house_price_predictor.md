@@ -1,6 +1,6 @@
 ---
 title: "House Price Predictor"
-excerpt: "Scrape the internet for house price data and build a model to predict house prices in a given state.  <br/><img src='/images/house_pricing.png'>"
+excerpt: "Scrape the internet for house price data and build a model to predict house prices in a given state.  <br/><img src='/images/house_price.png'>"
 collection: portfolio
 ---
 
